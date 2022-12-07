@@ -66,10 +66,10 @@ function App() {
 return(
    <div className="App">
          <header className="Header">Tracking Mouse position</header>
-         <div className="tracker">
+         
          <PanelMouseTracker />
          <PointMouseTracker />
-      </div>
+      
    </div>
 );   
 }
